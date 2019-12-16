@@ -8,6 +8,11 @@ LSUV initialization proposed by Dmytro Mishkin and Jiri Matas in the article [Al
 
 Original implementation can be found at [ducha-aiki/LSUVinit](https://github.com/ducha-aiki/LSUVinit).
 
+## Result Comparison
+|  | Default Init | LSUV Init |
+|---------------|--------------|-----------|
+| Fashion-MNIST | 83.15 % | 85.65 % |
+
 ### References
  - [ducha-aiki/LSUV-keras](https://github.com/ducha-aiki/LSUV-keras)
  - Notebook modified from [kashif/tf-keras-tutorial/blob/tf2/5-conv.ipynb](https://github.com/kashif/tf-keras-tutorial/blob/tf2/5-conv.ipynb)
